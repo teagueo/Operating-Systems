@@ -1,1 +1,7 @@
 # Operating-Systems
+Teague Oviatt
+Larry Lam
+CIS120
+6 November 2019
+Operating Systems Function
+	One operating system function is device management. The operating system manages device communication through their drivers. It will keep track of the devices connected to the system, and designates a program for each device. This is the input/output controller. It also manages which process gets access to which device, when and how long. It manages the devices and programs in an effective and efficient way and deallocates devices when they are no longer needed. 
